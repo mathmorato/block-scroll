@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScrollGuard</string>
+    <string name="accessibility_service_label">ScrollGuard - Bloqueador de Distrações</string>
+    <string name="accessibility_service_description">O ScrollGuard utiliza este serviço para detectar telas de vídeos curtos viciantes (Reels, Shorts, TikTok), calcular o tempo de rolagem excessiva e proteger contra domínios adultos, garantindo seu foco e bem-estar digital.</string>
+    <string name="widget_description">Exibe o status do guardião e as distrações bloqueadas hoje.</string>
+    <string name="channel_service_name">Monitor de Proteção ScrollGuard</string>
+    <string name="channel_service_desc">Notificação persistente para manter a proteção ativa contra fechamento pelo sistema.</string>
+</resources>
